@@ -112,4 +112,4 @@ mkdocs serve
 
 Репозиторий: [GitHub Repository](https://github.com/fara0000/python/lab2)
 
-Ссылка на сайт: 
+Ссылка на сайт: https://fara0000.github.io/python/lab2/
